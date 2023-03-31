@@ -30,7 +30,7 @@ jobs:
         run: npm ci
         
       - name: Build
-        run: npm run-script ng build -- --prod --base-href /Propagation-of-Uncertainty-Calculator/
+        run: npm run-script ng build -- --prod --base-href /PUC/
 
       - name: Push to GitHub Pages
         run: |
