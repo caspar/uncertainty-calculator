@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('propagation-of-uncertainty-calculator App', () => {
+describe('uncertainty-calculator App', () => {
   let page: AppPage;
 
   beforeEach(() => {

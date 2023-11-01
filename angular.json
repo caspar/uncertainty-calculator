@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "propagation-of-uncertainty-calculator": {
+    "uncertainty-calculator": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -111,7 +111,7 @@
         }
       }
     },
-    "propagation-of-uncertainty-calculator-e2e": {
+    "uncertainty-calculator-e2e": {
       "root": "e2e",
       "sourceRoot": "e2e",
       "projectType": "application",
@@ -135,7 +135,7 @@
       }
     }
   },
-  "defaultProject": "propagation-of-uncertainty-calculator",
+  "defaultProject": "uncertainty-calculator",
   "schematics": {
     "@schematics/angular:component": {
       "prefix": "app",
